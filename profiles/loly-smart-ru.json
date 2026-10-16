@@ -1,5 +1,5 @@
 {
-  "Name": "IndieVPN Smart RU",
+  "Name": "loly",
   "GlobalProxy": "true",
   "useChunkFiles": false,
   "LastUpdated": "1790439664",
@@ -37,6 +37,6 @@
   ],
   "BlockIp": [],
   "DomainStrategy": "IPIfNonMatch",
-  "Geoipurl": "https://raw.githubusercontent.com/nehamoff/IndieVPN-GEO/main/geoip.dat",
-  "Geositeurl": "https://raw.githubusercontent.com/nehamoff/IndieVPN-GEO/main/geosite.dat"
+  "Geoipurl": "https://raw.githubusercontent.com/whylolycry/lolyvpn/blob/main/geoip.dat",
+  "Geositeurl": "https://raw.githubusercontent.com/whylolycry/lolyvpn/blob/main/geosite.dat"
 }
