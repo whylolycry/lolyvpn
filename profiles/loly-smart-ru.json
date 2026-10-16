@@ -37,6 +37,6 @@
   ],
   "BlockIp": [],
   "DomainStrategy": "IPIfNonMatch",
-  "Geoipurl": "https://raw.githubusercontent.com/whylolycry/lolyvpn/blob/main/geoip.dat",
-  "Geositeurl": "https://raw.githubusercontent.com/whylolycry/lolyvpn/blob/main/geosite.dat"
+  "Geoipurl": "https://raw.githubusercontent.com/whylolycry/lolyvpn/main/geoip.dat",
+  "Geositeurl": "https://raw.githubusercontent.com/whylolycry/lolyvpn/main/geosite.dat"
 }
